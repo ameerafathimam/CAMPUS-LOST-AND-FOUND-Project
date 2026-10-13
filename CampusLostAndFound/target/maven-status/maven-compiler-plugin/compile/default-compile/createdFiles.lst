@@ -1,0 +1,8 @@
+com\campus\lostfound\console\ConsoleMenu.class
+com\campus\lostfound\dao\ItemDAO.class
+com\campus\lostfound\console\InputValidator.class
+com\campus\lostfound\model\Item.class
+com\campus\lostfound\util\DBConnection.class
+com\campus\lostfound\service\ItemService.class
+com\campus\lostfound\Main.class
+com\campus\lostfound\model\Statistics.class
